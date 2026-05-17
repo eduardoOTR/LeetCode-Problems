@@ -40,7 +40,7 @@ int main( void ) {
         }
     }
 
-    printf( "]" );
+    printf( "]\n" );
 
     free( result );
 
