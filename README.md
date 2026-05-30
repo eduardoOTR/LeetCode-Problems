@@ -5,8 +5,8 @@ It aims to showcase my progress, help others interested in the solutions, and im
 
 ## Repository Structure
 
-- `/c/` - Solutions in C
-- `/python/` - Solutions in Python
+- `/C/` - Solutions in C
+- `/Python/` - Solutions in Python
 
 ## List of Solved Problems
 
