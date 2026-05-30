@@ -46,7 +46,7 @@ It aims to showcase my progress, help others interested in the solutions, and im
 | 2769   | Find the Maximum Achievable Number          | https://leetcode.com/problems/find-the-maximum-achievable-number/ |
 | 2798   | Number of Employees Who Met the Target      | https://leetcode.com/problems/number-of-employees-who-met-the-target/ |
 | 2894   | Divisible and Non-divisible Sums Difference | https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/ |
-| 3545   | Count Prefix and Suffix Pairs I             | https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/ |
+| 3545   | Minimum Deletions for At Most K Distinct Characters             | https://leetcode.com/problems/minimum-deletions-for-at-most-k-distinct-characters/ |
 
 ---
 
