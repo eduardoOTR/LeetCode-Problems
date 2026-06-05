@@ -26,6 +26,7 @@ It aims to showcase my progress, help others interested in the solutions, and im
 | 69     | Sqrt(x)                                     | https://leetcode.com/problems/sqrtx/                       |
 | 70     | Climbing Stairs                             | https://leetcode.com/problems/climbing-stairs/             |
 | 100    | Same Tree                                   | https://leetcode.com/problems/same-tree/                   |
+| 101    | Symmetric Tree                              | https://leetcode.com/problems/symmetric-tree/              |
 | 125    | Valid Palindrome                            | https://leetcode.com/problems/valid-palindrome/            |
 | 136    | Single Number                               | https://leetcode.com/problems/single-number/               |
 | 222    | Count Complete Tree Nodes                   | https://leetcode.com/problems/count-complete-tree-nodes/   |
@@ -49,6 +50,8 @@ It aims to showcase my progress, help others interested in the solutions, and im
 | 2798   | Number of Employees Who Met the Target      | https://leetcode.com/problems/number-of-employees-who-met-the-target/ |
 | 2894   | Divisible and Non-divisible Sums Difference | https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/ |
 | 3545   | Minimum Deletions for At Most K Distinct Characters             | https://leetcode.com/problems/minimum-deletions-for-at-most-k-distinct-characters/ |
+
+Note: Some C exercises follow the "code style conventions of DOOM 3", as requested by the course instructor.
 
 ---
 
