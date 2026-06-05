@@ -57,3 +57,4 @@ It aims to showcase my progress, help others interested in the solutions, and im
 | Number | Problem Name      | Link                                              |
 |--------|-------------------|---------------------------------------------------|
 | 7      | Reverse Integer   | https://leetcode.com/problems/reverse-integer/    |
+| 66     | Plus One          | https://leetcode.com/problems/plus-one/           |
