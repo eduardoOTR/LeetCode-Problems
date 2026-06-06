@@ -27,6 +27,7 @@ It aims to showcase my progress, help others interested in the solutions, and im
 | 70     | Climbing Stairs                             | https://leetcode.com/problems/climbing-stairs/             |
 | 100    | Same Tree                                   | https://leetcode.com/problems/same-tree/                   |
 | 101    | Symmetric Tree                              | https://leetcode.com/problems/symmetric-tree/              |
+| 104    | Maximum Depth of Binary Tree                | https://leetcode.com/problems/maximum-depth-of-binary-tree/ |
 | 125    | Valid Palindrome                            | https://leetcode.com/problems/valid-palindrome/            |
 | 136    | Single Number                               | https://leetcode.com/problems/single-number/               |
 | 222    | Count Complete Tree Nodes                   | https://leetcode.com/problems/count-complete-tree-nodes/   |
