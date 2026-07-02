@@ -34,7 +34,7 @@ It aims to showcase my progress, help others interested in the solutions, and im
 | 226    | Invert Binary Tree                          | https://leetcode.com/problems/invert-binary-tree/          |
 | 231    | Power of Two                                | https://leetcode.com/problems/power-of-two/                |
 | 258    | Add Digits                                  | https://leetcode.com/problems/add-digits/                  |
-| 263    | Ugly Number                                 | https://leetcode.com/problems/ugly-number/                 |
+| 263    | Ugly Number                                 | https://leetcode.com/problems/ugly-number/                 |                      
 | 326    | Power of Three                              | https://leetcode.com/problems/power-of-three/              |
 | 342    | Power of Four                               | https://leetcode.com/problems/power-of-four/               |
 | 387    | First Unique Character in a String          | https://leetcode.com/problems/first-unique-character-in-a-string/ |
@@ -46,6 +46,7 @@ It aims to showcase my progress, help others interested in the solutions, and im
 | 1025   | Divisor Game                                | https://leetcode.com/problems/divisor-game/                |
 | 2114   | Maximum Number of Words Found in Sentences  | https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/ |
 | 2181   | Merge Nodes in Between Zeros                | https://leetcode.com/problems/merge-nodes-in-between-zeros/|
+| 2415   | Reverse Odd Levels of Binary Tree           | https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/ |
 | 2652   | Sum Multiples                               | https://leetcode.com/problems/sum-multiples/               |
 | 2769   | Find the Maximum Achievable Number          | https://leetcode.com/problems/find-the-maximum-achievable-number/ |
 | 2798   | Number of Employees Who Met the Target      | https://leetcode.com/problems/number-of-employees-who-met-the-target/ |
@@ -62,3 +63,4 @@ Note: Some C exercises follow the "code style conventions of DOOM 3", as request
 |--------|-------------------|---------------------------------------------------|
 | 7      | Reverse Integer   | https://leetcode.com/problems/reverse-integer/    |
 | 66     | Plus One          | https://leetcode.com/problems/plus-one/           |
+| 292    | Nim Game          | https://leetcode.com/problems/nim-game/           |
