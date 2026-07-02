@@ -41,9 +41,14 @@ It aims to showcase my progress, help others interested in the solutions, and im
 | 498    | Diagonal Traverse                           | https://leetcode.com/problems/diagonal-traverse/           |
 | 503    | Next Greater Element II                     | https://leetcode.com/problems/next-greater-element-ii/     |
 | 509    | Fibonacci Number                            | https://leetcode.com/problems/fibonacci-number/            |
+| 704    | Binary Search                               | https://leetcode.com/problems/binary-search/               |
 | 709    | To Lower Case                               | https://leetcode.com/problems/to-lower-case/               |
 | 860    | Lemonade Change                             | https://leetcode.com/problems/lemonade-change/             |
+| 951    | Flip Equivalent Binary Trees                | https://leetcode.com/problems/flip-equivalent-binary-trees/|
 | 1025   | Divisor Game                                | https://leetcode.com/problems/divisor-game/                |
+| 1315   | Sum of Nodes with Even-Valued Grandparent   | https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/ |
+| 1325   | Delete Leaves With a Given Value            | https://leetcode.com/problems/delete-leaves-with-a-given-value/ |
+| 1367   | Linked List in Binary Tree                  | https://leetcode.com/problems/linked-list-in-binary-tree/  |
 | 2114   | Maximum Number of Words Found in Sentences  | https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/ |
 | 2181   | Merge Nodes in Between Zeros                | https://leetcode.com/problems/merge-nodes-in-between-zeros/|
 | 2415   | Reverse Odd Levels of Binary Tree           | https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/ |
