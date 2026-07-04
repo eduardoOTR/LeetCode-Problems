@@ -21,6 +21,7 @@ It aims to showcase my progress, help others interested in the solutions, and im
 | 13     | Roman to Integer                            | https://leetcode.com/problems/roman-to-integer/            |
 | 19     | Remove Nth Node From End of List            | https://leetcode.com/problems/remove-nth-node-from-end-of-list/ |
 | 20     | Valid Parentheses                           | https://leetcode.com/problems/valid-parentheses/           |
+| 35     | Search Insert Position                      | https://leetcode.com/problems/search-insert-position/      |
 | 50     | Pow(x, n)                                   | https://leetcode.com/problems/powx-n/                      |
 | 58     | Length of Last Word                         | https://leetcode.com/problems/length-of-last-word/         |
 | 69     | Sqrt(x)                                     | https://leetcode.com/problems/sqrtx/                       |
