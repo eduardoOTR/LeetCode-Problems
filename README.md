@@ -29,6 +29,7 @@ It aims to showcase my progress, help others interested in the solutions, and im
 | 100    | Same Tree                                   | https://leetcode.com/problems/same-tree/                   |
 | 101    | Symmetric Tree                              | https://leetcode.com/problems/symmetric-tree/              |
 | 104    | Maximum Depth of Binary Tree                | https://leetcode.com/problems/maximum-depth-of-binary-tree/ |
+| 121    | Best Time to Buy and Sell Stock             | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ |
 | 125    | Valid Palindrome                            | https://leetcode.com/problems/valid-palindrome/            |
 | 136    | Single Number                               | https://leetcode.com/problems/single-number/               |
 | 222    | Count Complete Tree Nodes                   | https://leetcode.com/problems/count-complete-tree-nodes/   |
@@ -65,8 +66,8 @@ Note: Some C exercises follow the "code style conventions of DOOM 3", as request
 
 ### In Python
 
-| Number | Problem Name      | Link                                              |
-|--------|-------------------|---------------------------------------------------|
-| 7      | Reverse Integer   | https://leetcode.com/problems/reverse-integer/    |
-| 66     | Plus One          | https://leetcode.com/problems/plus-one/           |
-| 292    | Nim Game          | https://leetcode.com/problems/nim-game/           |
+| Number | Problem Name                                               | Link                                                                    |
+|--------|------------------------------------------------------------|-------------------------------------------------------------------------|
+| 7      | Reverse Integer                                            | https://leetcode.com/problems/reverse-integer/                          |
+| 66     | Plus One                                                   | https://leetcode.com/problems/plus-one/                                 |
+| 292    | Nim Game                                                   | https://leetcode.com/problems/nim-game/                                 |
