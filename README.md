@@ -55,7 +55,7 @@ It aims to showcase my progress, help others interested in the solutions, and im
 | 1367   | Linked List in Binary Tree                  | https://leetcode.com/problems/linked-list-in-binary-tree/  |
 | 2114   | Maximum Number of Words Found in Sentences  | https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/ |
 | 2181   | Merge Nodes in Between Zeros                | https://leetcode.com/problems/merge-nodes-in-between-zeros/|
-| 2369   | Strictly Palindromic Number                 | https://leetcode.com/problems/strictly-palindromic-number/ |
+| 2396   | Strictly Palindromic Number                 | https://leetcode.com/problems/strictly-palindromic-number/ |
 | 2415   | Reverse Odd Levels of Binary Tree           | https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/ |
 | 2652   | Sum Multiples                               | https://leetcode.com/problems/sum-multiples/               |
 | 2769   | Find the Maximum Achievable Number          | https://leetcode.com/problems/find-the-maximum-achievable-number/ |
