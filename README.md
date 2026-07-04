@@ -32,6 +32,7 @@ It aims to showcase my progress, help others interested in the solutions, and im
 | 121    | Best Time to Buy and Sell Stock             | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ |
 | 125    | Valid Palindrome                            | https://leetcode.com/problems/valid-palindrome/            |
 | 136    | Single Number                               | https://leetcode.com/problems/single-number/               |
+| 206    | Reverse Linked List                         | https://leetcode.com/problems/reverse-linked-list/         |
 | 222    | Count Complete Tree Nodes                   | https://leetcode.com/problems/count-complete-tree-nodes/   |
 | 226    | Invert Binary Tree                          | https://leetcode.com/problems/invert-binary-tree/          |
 | 231    | Power of Two                                | https://leetcode.com/problems/power-of-two/                |
